@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Todd W. Edwards</title>
+        <link>https://toddwedwards.com</link>
+        <description>Todd W. Edwards</description>
+        <lastBuildDate>Wed, 02 Oct 2019 19:34:24 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Todd W. Edwards</generator>
+        <atom:link href="https://toddwedwards.com/f" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>

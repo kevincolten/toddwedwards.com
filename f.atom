@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://toddwedwards.com</id>
+    <title>Todd W. Edwards</title>
+    <updated>2019-10-02T19:34:24Z</updated>
+    <generator>Todd W. Edwards</generator>
+    <author>
+        <name>Todd W. Edwards</name>
+    </author>
+    <link rel="alternate" href="https://toddwedwards.com"/>
+    <link rel="self" href="https://toddwedwards.com/f"/>
+    <subtitle>Todd W. Edwards</subtitle>
+</feed>
